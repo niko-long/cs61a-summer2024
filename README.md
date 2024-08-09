@@ -8,6 +8,7 @@ study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Pro
 - Test record:  
 - <img src="assets/hw01.png" alt="time cost" width="300">  
 - Different solution for question Q3: Largest Factor:  
+- solution1(official website): highly efficient, only need to calculate the largest factor and return the number.  
 ```
 factor = n - 1
     while factor > 0:
@@ -15,7 +16,7 @@ factor = n - 1
             return factor
         factor -= 1
 ```  
-mine:  
+mine:  not efficient, but can store factors in the list
 ```
     m = []
     for i in range(1, n-1):
