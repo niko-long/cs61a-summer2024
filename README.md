@@ -1,6 +1,29 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
+**2024/08/19**
+- Finished [project1 problem6-7](**https://cs61a.org/hw/sol-hw01/**)  
+- time cost: 1.7h.  
+
+```
+(miniconda3) (base) niko@NIkodeMacBook-Air hog % python3 ok -q 07
+=====================================================================
+Assignment: Project 1: Hog
+OK, version v1.18.1
+=====================================================================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running tests
+
+---------------------------------------------------------------------
+Test summary
+    9 test cases passed! No cases failed.
+
+Backup... 100% complete
+```
+
+
+
 
 **2024/08/09**
 - Finished [hw01](https://cs61a.org/hw/sol-hw01/)  
