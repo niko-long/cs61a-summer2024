@@ -1,7 +1,17 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
-**2024/08/19**
+
+**2024/08/11**
+- Finished Lecutre_objects.  
+- Finished [project1 problem1.](**https://cs61a.org/hw/sol-hw01/**) Spent quite some time to understand question description(I thought I could finish the first question in 5 minutes!), the  good point is that I deepen my understanding of high order function through this process.  
+- Test record:  
+- <img src="assets/project1-1.png" alt="time cost" width="300">
+- time cost: 1h. 
+
+
+
+**2024/08/10**
 - Finished [project1 problem6-7](**https://cs61a.org/hw/sol-hw01/**)  
 - time cost: 1.7h.  
 

@@ -22,6 +22,18 @@ def roll_dice(num_rolls, dice=six_sided):
     assert num_rolls > 0, 'Must roll at least once.'
     # BEGIN PROBLEM 1
     "*** YOUR CODE HERE ***"
+    n = []
+    m = 0
+    real_dice = dice
+    for i in range(0, num_rolls, 1):
+        k = real_dice()
+        n.append(k)
+        if k == 1:
+            m += 1
+    if m > 0:
+        return 1
+    else:
+        return sum(n)
     # END PROBLEM 1
 
 
@@ -215,6 +227,8 @@ def make_averaged(original_function, samples_count=1000):
     """
     # BEGIN PROBLEM 8
     "*** YOUR CODE HERE ***"
+    def make_averaged_return(*args):
+        result = original_function(*args)
     # END PROBLEM 8
 
 
