@@ -1,8 +1,16 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
-**2024/08/12**
-- Finished Lecutre_objects.  
+
+**2024/08/17**
+- Project1-Hog Finished, all points got.  
+- Finished [project1 problem 8-11.](**https://cs61a.org/hw/sol-hw01/**) 
+- <img src="assets/project1_finished.png" alt="time cost" width="300">
+- time cost: 2.2h.
+- <img src="assets/project1_time.png" alt="time cost" width="300">
+- time cost for project1:6.8h
+
+**2024/08/12** 
 - Finished [project1 problem2-5.](**https://cs61a.org/hw/sol-hw01/**) Spent some time to debug an error in problem4 but found when trying to solve problem5.  
 - <img src="assets/project1-5.png" alt="time cost" width="300">
 ```

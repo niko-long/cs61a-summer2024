@@ -266,7 +266,14 @@ def make_averaged(original_function, samples_count=1000):
     # BEGIN PROBLEM 8
     "*** YOUR CODE HERE ***"
     def make_averaged_return(*args):
-        result = original_function(*args)
+        grade = []
+        for i in range(1, samples_count+1):
+            result = original_function(*args)
+            grade.append(result)
+        final_grade = sum(grade)/len(grade)
+
+        return final_grade
+    return make_averaged_return
     # END PROBLEM 8
 
 
@@ -280,6 +287,14 @@ def max_scoring_num_rolls(dice=six_sided, samples_count=1000):
     """
     # BEGIN PROBLEM 9
     "*** YOUR CODE HERE ***"
+    num_dice = 10
+    grade = []
+    for i in range(1, 11):
+        averaged_dice = make_averaged(roll_dice, samples_count)
+        grade.append(averaged_dice(i, dice))
+    max_value = max(grade)
+    index = grade.index(max_value)
+    return index + 1
     # END PROBLEM 9
 
 
@@ -324,14 +339,22 @@ def boar_strategy(score, opponent_score, threshold=11, num_rolls=6):
     points, and returns NUM_ROLLS otherwise. Ignore score and Sus Fuss.
     """
     # BEGIN PROBLEM 10
-    return num_rolls  # Remove this line once implemented.
+    if boar_brawl(score, opponent_score) >= threshold:
+        return 0
+    else:
+        return num_rolls  # Remove this line once implemented.
     # END PROBLEM 10
 
 
 def sus_strategy(score, opponent_score, threshold=11, num_rolls=6):
     """This strategy returns 0 dice when your score would increase by at least threshold."""
     # BEGIN PROBLEM 11
-    return num_rolls  # Remove this line once implemented.
+    boar_socre = boar_brawl(score, opponent_score)
+    sus_score = sus_score = sus_points(score + boar_socre)
+    if (sus_score - score) >= threshold:
+        return 0
+    else:
+        return num_rolls  # Remove this line once implemented.python3 hog.py -r
     # END PROBLEM 11
 
 
