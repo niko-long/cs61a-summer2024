@@ -1,6 +1,12 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
+**2024/08/19**
+- Lab01:Functions, Control.  
+- Finished [Lab01:Functions, Control.](**https://cs61a.org/lab/lab01/**) 
+- <img src="assets/lab01.png" alt="lab01" width="300">
+- time cost: 1.2h.
+
 
 **2024/08/17**
 - Project1-Hog Finished, all points got.  
