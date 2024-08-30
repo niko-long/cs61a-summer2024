@@ -2,6 +2,12 @@
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
 **2024/08/19**
+- cs61a DAY17
+- Finished Lab02
+- Time cost: 2.3h.
+- It's been ten days since last update, cause I just finished my three examinations at August(Epidemiology/Image analysis and Understanding/Fundamental concepts of statistics). I really had an intensive summer vacation. I also improved my understanding of Deep learning/Statistics/Causality through this summer, the first academic year I finished 13 Courses and two semesters'German course. But I also find that I have forgotten some knowledge about cs61a and 61b, maybe I should do a quick recap of what I have learned ten days ago.
+
+**2024/08/19**
 - Lab01:Functions, Control.  
 - Finished [Lab01:Functions, Control.](**https://cs61a.org/lab/lab01/**) 
 - <img src="assets/lab01.png" alt="lab01" width="300">
