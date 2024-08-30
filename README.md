@@ -1,7 +1,7 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
-**2024/08/19**
+**2024/08/29**
 - cs61a DAY17
 - Finished Lab02
 - Time cost: 2.3h.
