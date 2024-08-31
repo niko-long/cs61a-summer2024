@@ -1,7 +1,13 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
-**2024/08/29**
+**2024/08/31**
+- cs61a DAY18
+- Finished HW02:Higher-order Functions
+- Time cost:0.6h
+
+
+**2024/08/30**
 - cs61a DAY17
 - Finished Lab02
 - Time cost: 2.3h.
