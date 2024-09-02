@@ -1,6 +1,12 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
+**2024/09/02**
+- cs61a DAY20
+- Finished HW03:Recursion
+- Time cost:4h
+- Spent quite a lot time on the topic of Recursion. Try to understand amazing recursive leap of faith!
+
 **2024/08/31**
 - cs61a DAY18
 - Finished HW02:Higher-order Functions
