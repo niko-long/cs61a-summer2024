@@ -4,39 +4,39 @@ study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Pro
 **2024/09/03**
 - cs61a DAY21
 - Finished:
-        - Lab03: Recursion,List,List Comprehension 
-          - Time cost:0.9h
-        - Lab04: Tree Recursion, Data Abstraction
-          - Time cost:1.9h
-- Lab03 is easier than homework03. Eager to finish the last question of lab03, I got up at 4:30am today and spent about 10 minutes finshed it, this feeling is quite good!
-- Lab04's Dictionaries and Data Abstraction are not difficult, most time spent on "Q3: Buying Fruit", still trying hard to solve every Recursion question!
+        - Lab03: Recursion,List,List Comprehension  
+          - Time cost:0.9h  
+        - Lab04: Tree Recursion, Data Abstraction  
+          - Time cost:1.9h  
+- Lab03 is easier than homework03. Eager to finish the last question of lab03, I got up at 4:30am today and spent about 10 minutes finshed it, this feeling is quite good!  
+- Lab04's Dictionaries and Data Abstraction are not difficult, most time spent on "Q3: Buying Fruit", still trying hard to solve every Recursion question!  
 
 **2024/09/02**
-- cs61a DAY20
-- Finished HW03:Recursion
-- Time cost: 4h
-- Spent quite a lot time on the topic of Recursion. Try to understand amazing recursive leap of faith!
+- cs61a DAY20  
+- Finished HW03:Recursion  
+- Time cost: 4h  
+- Spent quite a lot time on the topic of Recursion. Try to understand amazing recursive leap of faith!  
 
 **2024/08/31**
-- cs61a DAY18
-- Finished HW02:Higher-order Functions
-- Time cost: 0.6h
+- cs61a DAY18  
+- Finished HW02:Higher-order Functions  
+- Time cost: 0.6h  
 
 
 **2024/08/30**
-- cs61a DAY17
-- Finished Lab02
-- Time cost: 2.3h.
-- It's been ten days since last update, cause I just finished my three examinations at August(Epidemiology/Image analysis and Understanding/Fundamental concepts of statistics). I really had an intensive summer vacation. I also improved my understanding of Deep learning/Statistics/Causality through this summer, the first academic year I finished 13 Courses and two semesters'German course. But I also find that I have forgotten some knowledge about cs61a and 61b, maybe I should do a quick recap of what I have learned ten days ago.
+- cs61a DAY17  
+- Finished Lab02  
+- Time cost: 2.3h.  
+- It's been ten days since last update, cause I just finished my three examinations at August(Epidemiology/Image analysis and Understanding/Fundamental concepts of statistics). I really had an intensive summer vacation. I also improved my understanding of Deep learning/Statistics/Causality through this summer, the first academic year I finished 13 Courses and two semesters'German course. But I also find that I have forgotten some knowledge about cs61a and 61b, maybe I should do a quick recap of what I have learned ten days ago.  
 
-**2024/08/19**
+**2024/08/19**  
 - Lab01:Functions, Control.  
 - Finished [Lab01:Functions, Control.](**https://cs61a.org/lab/lab01/**) 
 - <img src="assets/lab01.png" alt="lab01" width="300">
-- time cost: 1.2h.
+- time cost: 1.2h.  
 
 
-**2024/08/17**
+**2024/08/17**  
 - Project1-Hog Finished, all points got.  
 - Finished [project1 problem 8-11.](**https://cs61a.org/hw/sol-hw01/**) 
 - <img src="assets/project1_finished.png" alt="time cost" width="300">
