@@ -3,9 +3,13 @@ study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Pro
 
 **2024/09/03**
 - cs61a DAY21
-- Finished Lab03:Recursion,List,List Comprehension
-- Time cost: 0.9h
+- Finished:
+        - Lab03: Recursion,List,List Comprehension 
+          - Time cost:0.9h
+        - Lab04: Tree Recursion, Data Abstraction
+          - Time cost:1.9h
 - Lab03 is easier than homework03. Eager to finish the last question of lab03, I got up at 4:30am today and spent about 10 minutes finshed it, this feeling is quite good!
+- Lab04's Dictionaries and Data Abstraction are not difficult, most time spent on "Q3: Buying Fruit", still trying hard to solve every Recursion question!
 
 **2024/09/02**
 - cs61a DAY20
