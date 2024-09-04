@@ -1,6 +1,15 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
+
+
+**2024/09/04**
+- cs61a DAY22
+- Finished: Project2-Cats 
+- Time cost: 10h
+- Spent more time than project1, wish I could finish project with less time. 
+
+
 **2024/09/03**
 - cs61a DAY21
 - Finished:
