@@ -4,6 +4,13 @@ study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Pro
 
 
 **2024/09/04**
+- cs61a DAY23
+- Finished: Lab05: Mutability, Iterators 
+- Time cost: 3.5h
+- Really good lab design, finished all the question(optional included) and got a better understanding of "Mutability and Iterators", actually these concepts are used in Project2-cats.
+
+
+**2024/09/04**
 - cs61a DAY22
 - Finished: Project2-Cats 
 - Time cost: 10h
