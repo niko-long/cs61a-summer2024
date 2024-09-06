@@ -1,6 +1,10 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
+**2024/09/06**
+- cs61a DAY25
+- Finished: Lab06: Obeject Oriented Programming
+- Time cost: 3.5h
 
 
 **2024/09/04**
