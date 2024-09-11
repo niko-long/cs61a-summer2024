@@ -7,6 +7,8 @@ study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Pro
 - Time cost: 2.4h
 - Finished: HW06: OOP, Linked Lists
 - Time cost: 2.3h
+- Finished: HW04: Sequences, ADT Trees
+- Time cost: 1.5h
 
 
 **2024/09/10**
