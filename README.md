@@ -1,10 +1,12 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
-**2024/09/10**
+**2024/09/11**
 - cs61a DAY28
 - Finished: Lab08: Mutable Trees
 - Time cost: 2.4h
+- Finished: HW06: OOP, Linked Lists
+- Time cost: 2.3h
 
 
 **2024/09/10**
