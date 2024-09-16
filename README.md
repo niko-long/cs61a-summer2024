@@ -1,6 +1,13 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
+**2024/09/16**
+- cs61a DAY31
+- Finished: HW10: SQL
+- Time cost: 1.1h
+- Finished: Lab12: SQL
+- Time cost: 1.1h
+- Finished almost all Lectures, start to work on Project3-Ants
 
 **2024/09/12**
 - cs61a DAY28
