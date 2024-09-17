@@ -1,6 +1,15 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
+
+**2024/09/17**
+- Finished [project3-Ants problem1-8a.] 
+- Test record:
+- <img src="assets/proj3-3.png" alt="time cost" width="300">   
+- <img src="assets/proj3-1.png" alt="time cost" width="300">  
+- <img src="assets/proj3-2.png" alt="time cost" width="300">  
+- time cost: 7.2h. 
+
 **2024/09/16**
 - cs61a DAY31
 - Finished: HW10: SQL
