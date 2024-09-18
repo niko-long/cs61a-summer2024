@@ -1,8 +1,23 @@
 # cs61a-summer2024
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
+**2024/09/18**
+- cs61a DAY33( 90-hours learning time fo far)  
+- Finished Project3-Ants: My faviorite peoject so far. You will have a lot of opportunities to practice OOP techniques in this project. Feel more comfortable to finish this project.
+- <img src="assets/proj3-8.png" alt="time cost" width="600">  
+- <img src="assets/proj3-11.png" alt="time cost" width="600">  
+- Time cost: 10h + 0.8h (optional questions). 
+- <img src="assets/proj3-7.png" alt="time cost" width="300">  
+- <img src="assets/proj3-6.png" alt="time cost" width="300">  
+
+- Test Records:  
+- <img src="assets/proj3-4.png" alt="time cost" width="300">   
+- <img src="assets/proj3-5.png" alt="time cost" width="300">  
+
+
 
 
 **2024/09/17**
+- cs61a DAY32
 - Finished [project3-Ants problem1-8a.] 
 - Test record:
 - <img src="assets/proj3-3.png" alt="time cost" width="300">   
