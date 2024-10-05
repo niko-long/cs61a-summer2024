@@ -2,6 +2,21 @@
 
 study notes of ucb cs61a-summer2024 Structure and Interpretation of Computer Programs
 
+**2024/10/05**
+
+- cs61a DAY44 (120-hours learning time so far)
+- Finished This course:
+
+  - time cost: 124h
+
+  <img src="assets/final.png" alt="time cost" width="400">
+- Finished lab11: programs as data, macros
+
+  - time cost: 1.9h
+- Finished hw11: programs as data, macros
+
+  - time cost: 0.5h (bingo!)
+
 **2024/10/04**
 
 - cs61a DAY42 (120-hours learning time so far)
